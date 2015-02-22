@@ -1,2 +1,3 @@
 # nova-core
-core function
+core function 
+This is README!
